@@ -1,6 +1,9 @@
 Proyek Klasifikasi Gambar: 5 Flower Types Classification
+
 Nama: Muhammad Bagas Wahyudi
+
 Email: mbagaswahyudi03@gmail.com
+
 ID Dicoding: muhammadbagaswhyudi
 
 Deskripsi Proyek
